@@ -1,16 +1,14 @@
-### Hi there 👋
+##  Mikian: Bad artist, better programmer
+<img src="https://komarev.com/ghpvc/?username=mm909" alt="https://github.com/mm909"/> 
+
+I am a master's student at UNLV researching Machine Learning by exploring the latent space of generative networks.
+
+
+
+
 
 <!--
-**mm909/mm909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Medium Badge](https://img.shields.io/badge/-Mikian%20Musser-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@MikianMusser/)](https://medium.com/@MikianMusser)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![mm909's github stats](https://github-readme-stats.vercel.app/api?username=mm909&theme=dark&show_icons=true)](https://github.com/mm909)
 -->
