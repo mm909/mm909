@@ -1,7 +1,7 @@
 ##  Mikian: Bad artist, better programmer
 <img src="https://komarev.com/ghpvc/?username=mm909" alt="https://github.com/mm909"/> 
 
-I am a master's student at UNLV researching Machine Learning by exploring the latent space of generative networks.
+I am a master's student at UNLV researching Machine Learning and the latent space of generative networks.
 
 
 
