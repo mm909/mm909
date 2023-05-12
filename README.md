@@ -1,7 +1,7 @@
 ##  Mikian: Bad artist, better programmer
 
 
-I am a graduate student at UNLV researching Machine Learning and the latent space of generative networks.
+Data Scientist @OPTX
 
 
 
